@@ -9,11 +9,11 @@
 After importing the project into Eclipse, you may see the need to add lombok(https://projectlombok.org/setup/eclipse) to your eclipse.
 
 ### Modifiy open weather api details in application.properties as per your account detils
--weather.api.url-hourly
--weather.api.url-hourly-param
--weather.api.api-key
+- weather.api.url-hourly
+- weather.api.url-hourly-param
+- weather.api.api-key
 
-Note: Since My account was active, used sample open weather api. So in even if pass different zip code, you might find same output.
+Note: Since My account was inactive, for time being used sample open weather api. So even if you pass different zip code, you might find same output.
 
 
 #Steps to Run.
